@@ -3,3 +3,6 @@ COMPANY: CODTECH IT SOLUTIONS
 INTERN ID: CT06DG1584
 DOMAIN: FRONT END DEVELOPMENT
 DURATION: 6 WEEKS
+
+# OUTPUT
+<img width="1918" height="1015" alt="Image" src="https://github.com/user-attachments/assets/f199bb7c-7d17-4325-8d7b-af795385fece" />
